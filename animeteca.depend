@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1650138678 source:e:\programas\animeteca\main.cpp
+	<iostream>
+	<Anime.h>
+	<ContenedorAnimes.h>
+	<fstream>
+
+1650137591 source:e:\programas\animeteca\src\anime.cpp
+	"Anime.h"
+
+1650138134 e:\programas\animeteca\include\anime.h
+	<iterator>
+	<list>
+
+1650056396 source:e:\programas\animeteca\src\contenedoranimes.cpp
+	"ContenedorAnimes.h"
+	<iostream>
+
+1650056386 e:\programas\animeteca\include\contenedoranimes.h
+	<Anime.h>
+	<set>
+
